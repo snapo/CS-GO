@@ -1,2 +1,2 @@
 # CS-GO
-My CSGO Config
+My CSGO Config from BitchyBitch
